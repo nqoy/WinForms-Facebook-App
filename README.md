@@ -22,6 +22,7 @@ Each user can use 2 new features:
 ![CalculateRight](https://github.com/nqoy/WinForms-Facebook-App/blob/main/Pictures/LoveCalculatorRight.png)
 ![CalculateWrong](https://github.com/nqoy/WinForms-Facebook-App/blob/main/Pictures/LoveCalculatorWrong.png)
 
+# Diagrams
 ## UseCase:
 ![CalculateWrong](https://github.com/nqoy/WinForms-Facebook-App/blob/main/Pictures/UseCase.png)
 
