@@ -1,11 +1,11 @@
-# Windows Facebook App
+# WinForm Facebook App
 
 Windows Form app development with ``Visual Studio`` platform.<br />
 Implementing ``Facebook Graph Wrapper Api.``<br />
 
 ## Summary:
-Providing a simple facebook experience and new features.<br />
-App settings and fake-friends list (no full access to the friends data) are saved by XML serialization.<br />
+Providing a simple facebook experience and new logical features.<br />
+The app settings and fake-friends list (no full access to the friends data) are saved by XML serialization.<br />
 Each user can use 2 new features:
 1. Filter friends by interest.
 2. Find the love percentage with a friend by common intrest.
