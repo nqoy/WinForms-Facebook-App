@@ -5,7 +5,9 @@ Implementing ``Facebook Graph Wrapper Api.``<br />
 
 ## Summary:
 Providing a simple facebook experience and new logical features.<br />
-App settings and fake-friends list (no full access to the friends data) are saved by XML serialization.<br />
+App settings & fake-friends list (no full access to the friends data) are both saved by XML serialization.<br />
+
+## Features:
 Each user can use 2 new features:
 1. Filter friends by interest.
 2. Calculate love percentage by common intrest with a chosen friend.
