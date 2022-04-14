@@ -1,0 +1,1181 @@
+<?xml version="1.0"?>
+<ArrayOfFakeUser xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FakeUser>
+    <Name>Avi Ron</Name>
+    <Movies>
+      <string>Star Wars</string>
+      <string>Titanic</string>
+    </Movies>
+    <Musics>
+      <string>Electro</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>Harry Potter</string>
+      <string>Design Patterns</string>
+    </Books>
+    <Sports>
+      <string>Golf</string>
+      <string>Netflix</string>
+    </Sports>
+    <Seasons>
+      <string>AC 23℃</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Eid al-Adha</string>
+      <string>Xmes</string>
+    </Holiday>
+    <Groups>
+      <string>DP.COURSE.HIT.22B</string>
+      <string>Not importent facts</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Viki Pedia</Name>
+    <Movies>
+      <string>Star Wars</string>
+      <string>Titanic</string>
+    </Movies>
+    <Musics>
+      <string>Electro</string>
+      <string>Mizrahit</string>
+    </Musics>
+    <Books>
+      <string>Design Patterns</string>
+      <string>Harry Potter</string>
+    </Books>
+    <Sports>
+      <string>Golf</string>
+      <string>Netflix</string>
+    </Sports>
+    <Seasons>
+      <string>AC 23℃</string>
+      <string>Summer</string>
+    </Seasons>
+    <Holiday>
+      <string>Eid al-Adha</string>
+      <string>Xmes</string>
+    </Holiday>
+    <Groups>
+      <string>Not importent facts</string>
+      <string>Funny tweets</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Tiki Por</Name>
+    <Movies>
+      <string>The Ring</string>
+      <string>Star Wars</string>
+    </Movies>
+    <Musics>
+      <string>Electro</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>The Bible</string>
+      <string>Design Patterns</string>
+    </Books>
+    <Sports>
+      <string>Football</string>
+      <string>Netflix</string>
+    </Sports>
+    <Seasons>
+      <string>AC 23℃</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Hannocka</string>
+      <string>Eid al-Adha</string>
+    </Holiday>
+    <Groups>
+      <string>Not importent facts</string>
+      <string>DP.COURSE.HIT.22B</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Eti Paron</Name>
+    <Movies>
+      <string>Titanic</string>
+      <string>Star Wars</string>
+    </Movies>
+    <Musics>
+      <string>Mizrahit</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>Design Patterns</string>
+      <string>Harry Potter</string>
+    </Books>
+    <Sports>
+      <string>Football</string>
+      <string>Golf</string>
+    </Sports>
+    <Seasons>
+      <string>Summer</string>
+      <string>AC 23℃</string>
+    </Seasons>
+    <Holiday>
+      <string>Hannocka</string>
+      <string>Eid al-Adha</string>
+    </Holiday>
+    <Groups>
+      <string>Funny tweets</string>
+      <string>Not importent facts</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Hanni Hachim</Name>
+    <Movies>
+      <string>Titanic</string>
+      <string>The Ring</string>
+    </Movies>
+    <Musics>
+      <string>Pop</string>
+      <string>Mizrahit</string>
+    </Musics>
+    <Books>
+      <string>Design Patterns</string>
+      <string>The Bible</string>
+    </Books>
+    <Sports>
+      <string>Golf</string>
+      <string>Football</string>
+    </Sports>
+    <Seasons>
+      <string>Winter</string>
+      <string>AC 23℃</string>
+    </Seasons>
+    <Holiday>
+      <string>Hannocka</string>
+      <string>Xmes</string>
+    </Holiday>
+    <Groups>
+      <string>Funny tweets</string>
+      <string>DP.COURSE.HIT.22B</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Moti Lochim</Name>
+    <Movies>
+      <string>Star Wars</string>
+      <string>The Ring</string>
+    </Movies>
+    <Musics>
+      <string>Electro</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>The Bible</string>
+      <string>Harry Potter</string>
+    </Books>
+    <Sports>
+      <string>Football</string>
+      <string>Netflix</string>
+    </Sports>
+    <Seasons>
+      <string>AC 23℃</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Hannocka</string>
+      <string>Xmes</string>
+    </Holiday>
+    <Groups>
+      <string>Funny tweets</string>
+      <string>DP.COURSE.HIT.22B</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Sami Saviv</Name>
+    <Movies>
+      <string>The Ring</string>
+      <string>Titanic</string>
+    </Movies>
+    <Musics>
+      <string>Mizrahit</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>The Bible</string>
+      <string>Harry Potter</string>
+    </Books>
+    <Sports>
+      <string>Football</string>
+      <string>Golf</string>
+    </Sports>
+    <Seasons>
+      <string>AC 23℃</string>
+      <string>Summer</string>
+    </Seasons>
+    <Holiday>
+      <string>Eid al-Adha</string>
+      <string>Xmes</string>
+    </Holiday>
+    <Groups>
+      <string>Funny tweets</string>
+      <string>DP.COURSE.HIT.22B</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Asaf Lots</Name>
+    <Movies>
+      <string>The Ring</string>
+      <string>Titanic</string>
+    </Movies>
+    <Musics>
+      <string>Pop</string>
+      <string>Electro</string>
+    </Musics>
+    <Books>
+      <string>Harry Potter</string>
+      <string>The Bible</string>
+    </Books>
+    <Sports>
+      <string>Golf</string>
+      <string>Netflix</string>
+    </Sports>
+    <Seasons>
+      <string>Summer</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Xmes</string>
+      <string>Eid al-Adha</string>
+    </Holiday>
+    <Groups>
+      <string>Funny tweets</string>
+      <string>DP.COURSE.HIT.22B</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Micha Napo</Name>
+    <Movies>
+      <string>The Ring</string>
+      <string>Titanic</string>
+    </Movies>
+    <Musics>
+      <string>Mizrahit</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>Harry Potter</string>
+      <string>Design Patterns</string>
+    </Books>
+    <Sports>
+      <string>Golf</string>
+      <string>Netflix</string>
+    </Sports>
+    <Seasons>
+      <string>Winter</string>
+      <string>AC 23℃</string>
+    </Seasons>
+    <Holiday>
+      <string>Hannocka</string>
+      <string>Eid al-Adha</string>
+    </Holiday>
+    <Groups>
+      <string>Not importent facts</string>
+      <string>DP.COURSE.HIT.22B</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Eli Kopter</Name>
+    <Movies>
+      <string>The Ring</string>
+      <string>Titanic</string>
+    </Movies>
+    <Musics>
+      <string>Pop</string>
+      <string>Electro</string>
+    </Musics>
+    <Books>
+      <string>Harry Potter</string>
+      <string>The Bible</string>
+    </Books>
+    <Sports>
+      <string>Netflix</string>
+      <string>Golf</string>
+    </Sports>
+    <Seasons>
+      <string>Summer</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Hannocka</string>
+      <string>Eid al-Adha</string>
+    </Holiday>
+    <Groups>
+      <string>DP.COURSE.HIT.22B</string>
+      <string>Not importent facts</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Natan Lidoch</Name>
+    <Movies>
+      <string>Titanic</string>
+      <string>Star Wars</string>
+    </Movies>
+    <Musics>
+      <string>Electro</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>The Bible</string>
+      <string>Harry Potter</string>
+    </Books>
+    <Sports>
+      <string>Football</string>
+      <string>Golf</string>
+    </Sports>
+    <Seasons>
+      <string>Winter</string>
+      <string>Summer</string>
+    </Seasons>
+    <Holiday>
+      <string>Eid al-Adha</string>
+      <string>Xmes</string>
+    </Holiday>
+    <Groups>
+      <string>Not importent facts</string>
+      <string>Funny tweets</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Simcha Gora</Name>
+    <Movies>
+      <string>The Ring</string>
+      <string>Titanic</string>
+    </Movies>
+    <Musics>
+      <string>Mizrahit</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>The Bible</string>
+      <string>Design Patterns</string>
+    </Books>
+    <Sports>
+      <string>Netflix</string>
+      <string>Golf</string>
+    </Sports>
+    <Seasons>
+      <string>Winter</string>
+      <string>AC 23℃</string>
+    </Seasons>
+    <Holiday>
+      <string>Eid al-Adha</string>
+      <string>Hannocka</string>
+    </Holiday>
+    <Groups>
+      <string>Not importent facts</string>
+      <string>DP.COURSE.HIT.22B</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Simcha Rif</Name>
+    <Movies>
+      <string>Titanic</string>
+      <string>Star Wars</string>
+    </Movies>
+    <Musics>
+      <string>Mizrahit</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>The Bible</string>
+      <string>Harry Potter</string>
+    </Books>
+    <Sports>
+      <string>Golf</string>
+      <string>Football</string>
+    </Sports>
+    <Seasons>
+      <string>Winter</string>
+      <string>Summer</string>
+    </Seasons>
+    <Holiday>
+      <string>Eid al-Adha</string>
+      <string>Hannocka</string>
+    </Holiday>
+    <Groups>
+      <string>Not importent facts</string>
+      <string>DP.COURSE.HIT.22B</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Mari Hoanna</Name>
+    <Movies>
+      <string>Titanic</string>
+      <string>Star Wars</string>
+    </Movies>
+    <Musics>
+      <string>Pop</string>
+      <string>Mizrahit</string>
+    </Musics>
+    <Books>
+      <string>Design Patterns</string>
+      <string>Harry Potter</string>
+    </Books>
+    <Sports>
+      <string>Netflix</string>
+      <string>Football</string>
+    </Sports>
+    <Seasons>
+      <string>Summer</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Xmes</string>
+      <string>Eid al-Adha</string>
+    </Holiday>
+    <Groups>
+      <string>DP.COURSE.HIT.22B</string>
+      <string>Funny tweets</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Niv Dal</Name>
+    <Movies>
+      <string>Titanic</string>
+      <string>The Ring</string>
+    </Movies>
+    <Musics>
+      <string>Mizrahit</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>Harry Potter</string>
+      <string>Design Patterns</string>
+    </Books>
+    <Sports>
+      <string>Football</string>
+      <string>Netflix</string>
+    </Sports>
+    <Seasons>
+      <string>AC 23℃</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Xmes</string>
+      <string>Hannocka</string>
+    </Holiday>
+    <Groups>
+      <string>DP.COURSE.HIT.22B</string>
+      <string>Funny tweets</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Aviv Golan</Name>
+    <Movies>
+      <string>Star Wars</string>
+      <string>Titanic</string>
+    </Movies>
+    <Musics>
+      <string>Mizrahit</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>The Bible</string>
+      <string>Harry Potter</string>
+    </Books>
+    <Sports>
+      <string>Netflix</string>
+      <string>Golf</string>
+    </Sports>
+    <Seasons>
+      <string>AC 23℃</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Xmes</string>
+      <string>Eid al-Adha</string>
+    </Holiday>
+    <Groups>
+      <string>Funny tweets</string>
+      <string>Not importent facts</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Miki Sade</Name>
+    <Movies>
+      <string>Star Wars</string>
+      <string>The Ring</string>
+    </Movies>
+    <Musics>
+      <string>Electro</string>
+      <string>Mizrahit</string>
+    </Musics>
+    <Books>
+      <string>The Bible</string>
+      <string>Design Patterns</string>
+    </Books>
+    <Sports>
+      <string>Netflix</string>
+      <string>Golf</string>
+    </Sports>
+    <Seasons>
+      <string>Summer</string>
+      <string>AC 23℃</string>
+    </Seasons>
+    <Holiday>
+      <string>Xmes</string>
+      <string>Hannocka</string>
+    </Holiday>
+    <Groups>
+      <string>Funny tweets</string>
+      <string>Not importent facts</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Bar Benezri</Name>
+    <Movies>
+      <string>The Ring</string>
+      <string>Titanic</string>
+    </Movies>
+    <Musics>
+      <string>Electro</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>The Bible</string>
+      <string>Harry Potter</string>
+    </Books>
+    <Sports>
+      <string>Netflix</string>
+      <string>Golf</string>
+    </Sports>
+    <Seasons>
+      <string>Summer</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Xmes</string>
+      <string>Hannocka</string>
+    </Holiday>
+    <Groups>
+      <string>DP.COURSE.HIT.22B</string>
+      <string>Funny tweets</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Arthur Rid</Name>
+    <Movies>
+      <string>Star Wars</string>
+      <string>The Ring</string>
+    </Movies>
+    <Musics>
+      <string>Electro</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>Design Patterns</string>
+      <string>Harry Potter</string>
+    </Books>
+    <Sports>
+      <string>Netflix</string>
+      <string>Football</string>
+    </Sports>
+    <Seasons>
+      <string>Winter</string>
+      <string>Summer</string>
+    </Seasons>
+    <Holiday>
+      <string>Hannocka</string>
+      <string>Xmes</string>
+    </Holiday>
+    <Groups>
+      <string>DP.COURSE.HIT.22B</string>
+      <string>Funny tweets</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Son Goko</Name>
+    <Movies>
+      <string>Star Wars</string>
+      <string>Titanic</string>
+    </Movies>
+    <Musics>
+      <string>Mizrahit</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>The Bible</string>
+      <string>Harry Potter</string>
+    </Books>
+    <Sports>
+      <string>Netflix</string>
+      <string>Football</string>
+    </Sports>
+    <Seasons>
+      <string>Summer</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Hannocka</string>
+      <string>Eid al-Adha</string>
+    </Holiday>
+    <Groups>
+      <string>Funny tweets</string>
+      <string>Not importent facts</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Rodrigo Gonzals</Name>
+    <Movies>
+      <string>Star Wars</string>
+      <string>Titanic</string>
+    </Movies>
+    <Musics>
+      <string>Pop</string>
+      <string>Electro</string>
+    </Musics>
+    <Books>
+      <string>Harry Potter</string>
+      <string>The Bible</string>
+    </Books>
+    <Sports>
+      <string>Football</string>
+      <string>Golf</string>
+    </Sports>
+    <Seasons>
+      <string>Summer</string>
+      <string>AC 23℃</string>
+    </Seasons>
+    <Holiday>
+      <string>Hannocka</string>
+      <string>Xmes</string>
+    </Holiday>
+    <Groups>
+      <string>Not importent facts</string>
+      <string>Funny tweets</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Charli Vahezi</Name>
+    <Movies>
+      <string>Titanic</string>
+      <string>The Ring</string>
+    </Movies>
+    <Musics>
+      <string>Electro</string>
+      <string>Mizrahit</string>
+    </Musics>
+    <Books>
+      <string>Design Patterns</string>
+      <string>Harry Potter</string>
+    </Books>
+    <Sports>
+      <string>Football</string>
+      <string>Netflix</string>
+    </Sports>
+    <Seasons>
+      <string>Summer</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Xmes</string>
+      <string>Hannocka</string>
+    </Holiday>
+    <Groups>
+      <string>Funny tweets</string>
+      <string>DP.COURSE.HIT.22B</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Haham Hanoka</Name>
+    <Movies>
+      <string>Star Wars</string>
+      <string>Titanic</string>
+    </Movies>
+    <Musics>
+      <string>Mizrahit</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>Harry Potter</string>
+      <string>The Bible</string>
+    </Books>
+    <Sports>
+      <string>Golf</string>
+      <string>Football</string>
+    </Sports>
+    <Seasons>
+      <string>Summer</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Eid al-Adha</string>
+      <string>Hannocka</string>
+    </Holiday>
+    <Groups>
+      <string>Not importent facts</string>
+      <string>DP.COURSE.HIT.22B</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Joe Bidden</Name>
+    <Movies>
+      <string>The Ring</string>
+      <string>Star Wars</string>
+    </Movies>
+    <Musics>
+      <string>Pop</string>
+      <string>Electro</string>
+    </Musics>
+    <Books>
+      <string>Design Patterns</string>
+      <string>Harry Potter</string>
+    </Books>
+    <Sports>
+      <string>Golf</string>
+      <string>Football</string>
+    </Sports>
+    <Seasons>
+      <string>Summer</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Xmes</string>
+      <string>Eid al-Adha</string>
+    </Holiday>
+    <Groups>
+      <string>DP.COURSE.HIT.22B</string>
+      <string>Funny tweets</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Donald Trump</Name>
+    <Movies>
+      <string>Titanic</string>
+      <string>Star Wars</string>
+    </Movies>
+    <Musics>
+      <string>Electro</string>
+      <string>Mizrahit</string>
+    </Musics>
+    <Books>
+      <string>Harry Potter</string>
+      <string>The Bible</string>
+    </Books>
+    <Sports>
+      <string>Netflix</string>
+      <string>Football</string>
+    </Sports>
+    <Seasons>
+      <string>Summer</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Xmes</string>
+      <string>Eid al-Adha</string>
+    </Holiday>
+    <Groups>
+      <string>Funny tweets</string>
+      <string>DP.COURSE.HIT.22B</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Vladimir Putin</Name>
+    <Movies>
+      <string>Star Wars</string>
+      <string>The Ring</string>
+    </Movies>
+    <Musics>
+      <string>Mizrahit</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>Harry Potter</string>
+      <string>Design Patterns</string>
+    </Books>
+    <Sports>
+      <string>Football</string>
+      <string>Golf</string>
+    </Sports>
+    <Seasons>
+      <string>AC 23℃</string>
+      <string>Summer</string>
+    </Seasons>
+    <Holiday>
+      <string>Eid al-Adha</string>
+      <string>Xmes</string>
+    </Holiday>
+    <Groups>
+      <string>DP.COURSE.HIT.22B</string>
+      <string>Not importent facts</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Ada Yonat</Name>
+    <Movies>
+      <string>The Ring</string>
+      <string>Star Wars</string>
+    </Movies>
+    <Musics>
+      <string>Pop</string>
+      <string>Mizrahit</string>
+    </Musics>
+    <Books>
+      <string>The Bible</string>
+      <string>Design Patterns</string>
+    </Books>
+    <Sports>
+      <string>Football</string>
+      <string>Golf</string>
+    </Sports>
+    <Seasons>
+      <string>AC 23℃</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Xmes</string>
+      <string>Hannocka</string>
+    </Holiday>
+    <Groups>
+      <string>Funny tweets</string>
+      <string>Not importent facts</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Ompa Lompa</Name>
+    <Movies>
+      <string>The Ring</string>
+      <string>Star Wars</string>
+    </Movies>
+    <Musics>
+      <string>Pop</string>
+      <string>Electro</string>
+    </Musics>
+    <Books>
+      <string>The Bible</string>
+      <string>Design Patterns</string>
+    </Books>
+    <Sports>
+      <string>Golf</string>
+      <string>Football</string>
+    </Sports>
+    <Seasons>
+      <string>Summer</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Xmes</string>
+      <string>Eid al-Adha</string>
+    </Holiday>
+    <Groups>
+      <string>Not importent facts</string>
+      <string>Funny tweets</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Shik Shok</Name>
+    <Movies>
+      <string>Star Wars</string>
+      <string>Titanic</string>
+    </Movies>
+    <Musics>
+      <string>Electro</string>
+      <string>Mizrahit</string>
+    </Musics>
+    <Books>
+      <string>Harry Potter</string>
+      <string>Design Patterns</string>
+    </Books>
+    <Sports>
+      <string>Golf</string>
+      <string>Football</string>
+    </Sports>
+    <Seasons>
+      <string>Winter</string>
+      <string>Summer</string>
+    </Seasons>
+    <Holiday>
+      <string>Xmes</string>
+      <string>Eid al-Adha</string>
+    </Holiday>
+    <Groups>
+      <string>DP.COURSE.HIT.22B</string>
+      <string>Not importent facts</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Ogi Flezet</Name>
+    <Movies>
+      <string>Titanic</string>
+      <string>Star Wars</string>
+    </Movies>
+    <Musics>
+      <string>Mizrahit</string>
+      <string>Electro</string>
+    </Musics>
+    <Books>
+      <string>Harry Potter</string>
+      <string>The Bible</string>
+    </Books>
+    <Sports>
+      <string>Football</string>
+      <string>Golf</string>
+    </Sports>
+    <Seasons>
+      <string>Winter</string>
+      <string>Summer</string>
+    </Seasons>
+    <Holiday>
+      <string>Hannocka</string>
+      <string>Eid al-Adha</string>
+    </Holiday>
+    <Groups>
+      <string>DP.COURSE.HIT.22B</string>
+      <string>Funny tweets</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Sami Hakabai</Name>
+    <Movies>
+      <string>The Ring</string>
+      <string>Star Wars</string>
+    </Movies>
+    <Musics>
+      <string>Mizrahit</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>Harry Potter</string>
+      <string>The Bible</string>
+    </Books>
+    <Sports>
+      <string>Golf</string>
+      <string>Netflix</string>
+    </Sports>
+    <Seasons>
+      <string>Winter</string>
+      <string>AC 23℃</string>
+    </Seasons>
+    <Holiday>
+      <string>Eid al-Adha</string>
+      <string>Hannocka</string>
+    </Holiday>
+    <Groups>
+      <string>Funny tweets</string>
+      <string>DP.COURSE.HIT.22B</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>El Professor</Name>
+    <Movies>
+      <string>The Ring</string>
+      <string>Star Wars</string>
+    </Movies>
+    <Musics>
+      <string>Mizrahit</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>Design Patterns</string>
+      <string>The Bible</string>
+    </Books>
+    <Sports>
+      <string>Golf</string>
+      <string>Netflix</string>
+    </Sports>
+    <Seasons>
+      <string>Winter</string>
+      <string>AC 23℃</string>
+    </Seasons>
+    <Holiday>
+      <string>Eid al-Adha</string>
+      <string>Xmes</string>
+    </Holiday>
+    <Groups>
+      <string>Funny tweets</string>
+      <string>DP.COURSE.HIT.22B</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Klark Kenet</Name>
+    <Movies>
+      <string>Star Wars</string>
+      <string>Titanic</string>
+    </Movies>
+    <Musics>
+      <string>Electro</string>
+      <string>Mizrahit</string>
+    </Musics>
+    <Books>
+      <string>Harry Potter</string>
+      <string>Design Patterns</string>
+    </Books>
+    <Sports>
+      <string>Netflix</string>
+      <string>Football</string>
+    </Sports>
+    <Seasons>
+      <string>Summer</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Eid al-Adha</string>
+      <string>Hannocka</string>
+    </Holiday>
+    <Groups>
+      <string>DP.COURSE.HIT.22B</string>
+      <string>Not importent facts</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Peter Parker</Name>
+    <Movies>
+      <string>Titanic</string>
+      <string>The Ring</string>
+    </Movies>
+    <Musics>
+      <string>Pop</string>
+      <string>Electro</string>
+    </Musics>
+    <Books>
+      <string>Harry Potter</string>
+      <string>The Bible</string>
+    </Books>
+    <Sports>
+      <string>Netflix</string>
+      <string>Golf</string>
+    </Sports>
+    <Seasons>
+      <string>Summer</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Eid al-Adha</string>
+      <string>Xmes</string>
+    </Holiday>
+    <Groups>
+      <string>DP.COURSE.HIT.22B</string>
+      <string>Funny tweets</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Bros Wane</Name>
+    <Movies>
+      <string>Titanic</string>
+      <string>The Ring</string>
+    </Movies>
+    <Musics>
+      <string>Pop</string>
+      <string>Electro</string>
+    </Musics>
+    <Books>
+      <string>The Bible</string>
+      <string>Design Patterns</string>
+    </Books>
+    <Sports>
+      <string>Golf</string>
+      <string>Football</string>
+    </Sports>
+    <Seasons>
+      <string>Winter</string>
+      <string>Summer</string>
+    </Seasons>
+    <Holiday>
+      <string>Hannocka</string>
+      <string>Eid al-Adha</string>
+    </Holiday>
+    <Groups>
+      <string>DP.COURSE.HIT.22B</string>
+      <string>Not importent facts</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Gal Gadot</Name>
+    <Movies>
+      <string>Titanic</string>
+      <string>The Ring</string>
+    </Movies>
+    <Musics>
+      <string>Mizrahit</string>
+      <string>Electro</string>
+    </Musics>
+    <Books>
+      <string>The Bible</string>
+      <string>Design Patterns</string>
+    </Books>
+    <Sports>
+      <string>Netflix</string>
+      <string>Football</string>
+    </Sports>
+    <Seasons>
+      <string>AC 23℃</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Xmes</string>
+      <string>Eid al-Adha</string>
+    </Holiday>
+    <Groups>
+      <string>Funny tweets</string>
+      <string>Not importent facts</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Aviv Alush</Name>
+    <Movies>
+      <string>The Ring</string>
+      <string>Star Wars</string>
+    </Movies>
+    <Musics>
+      <string>Mizrahit</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>Harry Potter</string>
+      <string>Design Patterns</string>
+    </Books>
+    <Sports>
+      <string>Golf</string>
+      <string>Netflix</string>
+    </Sports>
+    <Seasons>
+      <string>AC 23℃</string>
+      <string>Summer</string>
+    </Seasons>
+    <Holiday>
+      <string>Eid al-Adha</string>
+      <string>Hannocka</string>
+    </Holiday>
+    <Groups>
+      <string>DP.COURSE.HIT.22B</string>
+      <string>Not importent facts</string>
+    </Groups>
+  </FakeUser>
+  <FakeUser>
+    <Name>Dag Zahav</Name>
+    <Movies>
+      <string>Star Wars</string>
+      <string>The Ring</string>
+    </Movies>
+    <Musics>
+      <string>Electro</string>
+      <string>Pop</string>
+    </Musics>
+    <Books>
+      <string>Design Patterns</string>
+      <string>The Bible</string>
+    </Books>
+    <Sports>
+      <string>Golf</string>
+      <string>Football</string>
+    </Sports>
+    <Seasons>
+      <string>Summer</string>
+      <string>Winter</string>
+    </Seasons>
+    <Holiday>
+      <string>Eid al-Adha</string>
+      <string>Hannocka</string>
+    </Holiday>
+    <Groups>
+      <string>DP.COURSE.HIT.22B</string>
+      <string>Funny tweets</string>
+    </Groups>
+  </FakeUser>
+</ArrayOfFakeUser>
