@@ -1,4 +1,4 @@
-# WinForm Facebook App
+# WinForms Facebook App
 
 Windows Form app development with ``Visual Studio`` platform.<br />
 Implementing ``Facebook Graph Wrapper Api``.<br />
