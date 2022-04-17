@@ -31,7 +31,7 @@ Each user can use 2 new features:
 <img src="https://github.com/nqoy/WinForms-Facebook-App/blob/main/Pictures/UseCaseDiagram.png" alt="drawing" width="700"/>
 
 ### Friend Filter Sequence:
-<img src="https://github.com/nqoy/WinForms-Facebook-App/blob/main/Pictures/FriendFilterSequence%20Diagram.png" alt="drawing" width="800"/>
+<img src="https://github.com/nqoy/WinForms-Facebook-App/blob/main/Pictures/FriendFilterSequenceDiagram.png" alt="drawing" width="800"/>
 
 ### Love Calculator Sequence:
 <img src="https://github.com/nqoy/WinForms-Facebook-App/blob/main/Pictures/LoveCalculatorSequence%20Diagram.png" alt="drawing" width="800"/>
