@@ -12,7 +12,7 @@ App settings & fake-friends list (no full access to the friends data) are both s
 ## Features:
 Each user can use 2 new features:
 1. Filter friends by interest.
-2. Calculate love percentage by common intrest with a chosen friend.
+2. Calculate love percentage by common interest with a chosen friend.
 
 # The App
 ### Main page:
