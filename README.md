@@ -28,13 +28,13 @@ Each user can use 2 new features:
 
 # Diagrams
 ### UseCase:
-<img src="https://github.com/nqoy/WinForms-Facebook-App/blob/main/Pictures/UseCaseDiagram.png" alt="drawing" width="500"/>
+<img src="https://github.com/nqoy/WinForms-Facebook-App/blob/main/Pictures/UseCaseDiagram.png" alt="drawing" width="700"/>
 
 ### Friend Filter Sequence:
-<img src="https://github.com/nqoy/WinForms-Facebook-App/blob/main/Pictures/FriendFilterSequence%20Diagram.png" alt="drawing" width="600"/>
+<img src="https://github.com/nqoy/WinForms-Facebook-App/blob/main/Pictures/FriendFilterSequence%20Diagram.png" alt="drawing" width="800"/>
 
 ### Love Calculator Sequence:
-<img src="https://github.com/nqoy/WinForms-Facebook-App/blob/main/Pictures/LoveCalculatorSequence%20Diagram.png" alt="drawing" width="600"/>
+<img src="https://github.com/nqoy/WinForms-Facebook-App/blob/main/Pictures/LoveCalculatorSequence%20Diagram.png" alt="drawing" width="800"/>
 
 ### Class Diagram:
-<img src="https://github.com/nqoy/WinForms-Facebook-App/blob/main/Pictures/AppClassDiagram.png" alt="drawing" width="700"/>
+<img src="https://github.com/nqoy/WinForms-Facebook-App/blob/main/Pictures/AppClassDiagram.png" alt="drawing" width="900"/>
